@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "expanded_combat:item/battle_staff",
+        "expanded_combat:item/broad_sword",
+        "expanded_combat:item/claymore",
+        "expanded_combat:item/cutlass",
+        "expanded_combat:item/dagger",
+        "expanded_combat:item/dancer_s_sword",
+        "expanded_combat:item/glaive",
+        "expanded_combat:item/katana",
+        "expanded_combat:item/scythe",
+        "expanded_combat:item/sickle",
+        "expanded_combat:item/spear",
+        "expanded_combat:item_large/battle_staff",
+        "expanded_combat:item_large/broad_sword",
+        "expanded_combat:item_large/claymore",
+        "expanded_combat:item_large/cutlass",
+        "expanded_combat:item_large/dagger",
+        "expanded_combat:item_large/dancer_s_sword",
+        "expanded_combat:item_large/glaive",
+        "expanded_combat:item_large/katana",
+        "expanded_combat:item_large/scythe",
+        "expanded_combat:item_large/sickle",
+        "expanded_combat:item_large/spear"
+      ],
+      "palette_key": "expanded_combat:item/color_palettes/template",
+      "permutations": {
+        "steeleaf": "expanded_combat:item/color_palettes/steeleaf",
+        "ironwood": "expanded_combat:item/color_palettes/ironwood",
+        "knight_metal": "expanded_combat:item/color_palettes/knight_metal"
+      }
+    }
+  ]
+}
