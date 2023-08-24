@@ -15,7 +15,6 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.item.enchantment.Enchantments;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.common.data.ForgeAdvancementProvider;
-import twilightforest.data.TFAdvancementGenerator;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 import java.util.List;

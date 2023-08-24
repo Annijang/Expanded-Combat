@@ -14,7 +14,6 @@ import net.minecraftforge.client.event.ContainerScreenEvent;
 import net.minecraftforge.client.event.ScreenEvent;
 import net.minecraftforge.event.entity.living.ShieldBlockEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import twilightforest.item.KnightmetalShieldItem;
 
 import static com.userofbricks.expanded_combat.ExpandedCombat.CONFIG;
 

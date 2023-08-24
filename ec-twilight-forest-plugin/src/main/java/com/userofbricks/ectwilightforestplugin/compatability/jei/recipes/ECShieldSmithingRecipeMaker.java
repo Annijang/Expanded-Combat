@@ -1,4 +1,4 @@
-package com.userofbricks.expanded_combat.compatability.jei.recipes;
+package com.userofbricks.ectwilightforestplugin.compatability.jei.recipes;
 
 import com.userofbricks.expanded_combat.ExpandedCombat;
 import com.userofbricks.expanded_combat.item.ECItems;
@@ -14,6 +14,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
+import twilightforest.init.TFItems;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,7 +23,7 @@ public class ECShieldSmithingRecipeMaker {
     public static List<IShieldSmithingRecipe> createShieldSmithingRecipes(IStackHelper stackHelper) {
         List<IShieldSmithingRecipe> recipes = new ArrayList<>();
         List<ItemStack> bases = new ArrayList<>();
-        bases.add(new ItemStack(Items.SHIELD));
+        bases.add(new ItemStack(TFItems.KNIGHTMETAL_SHIELD.get()));
         for (Material material :
                 MaterialInit.shieldMaterials) {
             ItemStack shield = new ItemStack(material.getConfig().fireResistant ? ECItems.SHIELD_TIER_3.get() : ECItems.SHIELD_TIER_1.get());

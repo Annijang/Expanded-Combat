@@ -53,7 +53,7 @@ public abstract class BetterCombatWeaponAttributesProvider implements DataProvid
             } else {
                 JsonObject obj = serializeToJson(transform);
                 Path path = createPath(new ResourceLocation(modId, name));
-                futuresBuilder.add(saveStable(cache, obj, path));
+                futuresBuilder.add(DataProvider.saveStable(cache, obj, path));
             }
         });
         return CompletableFuture.allOf(futuresBuilder.build().toArray(CompletableFuture[]::new));

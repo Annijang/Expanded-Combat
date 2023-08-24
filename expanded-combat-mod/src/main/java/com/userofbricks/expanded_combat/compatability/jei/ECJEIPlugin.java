@@ -53,7 +53,7 @@ public class ECJEIPlugin implements IModPlugin {
     @Nullable
     private IRecipeCategory<IFletchingRecipe> fletchingCategory;
     @Nullable
-    private IRecipeCategory<IShieldSmithingRecipe> shieldSmithingCategory;
+    public IRecipeCategory<IShieldSmithingRecipe> shieldSmithingCategory;
 
     @Override
     public ResourceLocation getPluginUid() {

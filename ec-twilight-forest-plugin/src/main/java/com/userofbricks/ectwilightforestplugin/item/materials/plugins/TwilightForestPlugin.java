@@ -1,15 +1,16 @@
-package com.userofbricks.expanded_combat.item.materials.plugins;
+package com.userofbricks.ectwilightforestplugin.item.materials.plugins;
 
 import com.userofbricks.expanded_combat.api.registry.ECPlugin;
 import com.userofbricks.expanded_combat.api.registry.IExpandedCombatPlugin;
 import com.userofbricks.expanded_combat.api.registry.RegistrationHandler;
 import com.userofbricks.expanded_combat.api.registry.ShieldToMaterials;
-import com.userofbricks.expanded_combat.compatability.twilight_forest.TFMaterial;
+import com.userofbricks.ectwilightforestplugin.item.materials.TFMaterial;
 import com.userofbricks.expanded_combat.item.materials.Material;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.registries.ForgeRegistries;
 
-import static com.userofbricks.expanded_combat.ExpandedCombat.*;
+import static com.userofbricks.ectwilightforestplugin.ECTwilightForestPlugin.*;
+
 
 @ECPlugin
 public class TwilightForestPlugin  implements IExpandedCombatPlugin {

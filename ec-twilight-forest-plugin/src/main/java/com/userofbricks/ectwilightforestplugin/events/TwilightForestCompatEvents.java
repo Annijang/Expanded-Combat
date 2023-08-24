@@ -1,9 +1,9 @@
-package com.userofbricks.expanded_combat.compatability.twilight_forest;
+package com.userofbricks.ectwilightforestplugin.events;
 
+import com.userofbricks.ectwilightforestplugin.item.materials.plugins.TwilightForestPlugin;
+import com.userofbricks.ectwilightforestplugin.util.ModIDs;
 import com.userofbricks.expanded_combat.ExpandedCombat;
 import com.userofbricks.expanded_combat.item.ECWeaponItem;
-import com.userofbricks.expanded_combat.item.materials.plugins.TwilightForestPlugin;
-import com.userofbricks.expanded_combat.util.ModIDs;
 import net.minecraft.network.protocol.game.ClientboundAnimatePacket;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.LivingEntity;

@@ -48,8 +48,8 @@ public class QuiverRenderer implements ICurioRenderer {
             this.model.prepareMobModel(entity, limbSwing, limbSwingAmount, partialTicks);
             this.model.setupAnim(entity, limbSwing, limbSwingAmount, ageInTicks, netHeadYaw, headPitch);
 
-            translateIfSneaking(poseStack, entity);
-            rotateIfSneaking(poseStack, entity);
+            ICurioRenderer.translateIfSneaking(poseStack, entity);
+            ICurioRenderer.rotateIfSneaking(poseStack, entity);
 
             VertexConsumer vertexconsumer = ItemRenderer
                     .getArmorFoilBuffer(multiBufferSource, RenderType.armorCutoutNoCull(QUIVER_TEXTURE), false,

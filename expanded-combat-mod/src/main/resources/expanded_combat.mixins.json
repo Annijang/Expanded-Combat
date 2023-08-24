@@ -5,6 +5,10 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "expanded-combat.refmap.json",
   "mixins": [
+    "AbstractArrowEntityMixin",
+    "CuriosMenuMixin",
+    "FletchingTableBlockMixin",
+    "PlayerEntityMixin"
   ],
   "client": [
   ],

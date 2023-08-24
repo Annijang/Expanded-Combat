@@ -1,8 +1,9 @@
-package com.userofbricks.expanded_combat.compatability.twilight_forest;
+package com.userofbricks.ectwilightforestplugin.item.materials;
 
 import com.tterrag.registrate.Registrate;
 import com.tterrag.registrate.builders.ItemBuilder;
 import com.tterrag.registrate.util.entry.RegistryEntry;
+import com.userofbricks.ectwilightforestplugin.item.TFWeaponItem;
 import com.userofbricks.expanded_combat.item.ECItemTags;
 import com.userofbricks.expanded_combat.item.materials.Material;
 import com.userofbricks.expanded_combat.item.materials.MaterialBuilder;
