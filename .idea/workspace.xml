@@ -5,27 +5,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93280f72-134d-48eb-b76f-6af280b6e957" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/compatability/jei/ECTFJEIPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/compatability/jei/recipes/ECShieldSmithingRecipeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/datagen/DataGenerators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/datagen/ECTFBetterCombatWeaponAttributesProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/item/ECTFItemTags.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/ECTwilightForestPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/ECTwilightForestPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/client/renderer/QuiverRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/client/renderer/QuiverRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/jei/ECJEIPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/jei/ECJEIPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/jei/recipes/ECShieldSmithingRecipeMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/jei/recipes/ECShieldSmithingRecipeMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/twilight_forest/TFMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/item/materials/TFMaterial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/twilight_forest/TFWeaponBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/item/materials/TFWeaponBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/twilight_forest/TFWeaponItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/item/TFWeaponItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/compatability/twilight_forest/TwilightForestCompatEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/events/TwilightForestCompatEvents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/datagen/BetterCombatWeaponAttributesProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/datagen/BetterCombatWeaponAttributesProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/datagen/ECAdvancementProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/datagen/ECAdvancementProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/events/ShieldEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/events/ShieldEvents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/ECItemTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/ECItemTags.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/materials/plugins/TwilightForestPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/item/materials/plugins/TwilightForestPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/mixin/CuriosMenuMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/mixin/CuriosMenuMixin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/expanded_combat.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/expanded_combat.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/config/ECTFConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/java/com/userofbricks/ectwilightforestplugin/config/ECTFConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/META-INF/mods.toml" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/META-INF/mods.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/battle_staff_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/battle_staff_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/battle_staff_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/battle_staff_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/broad_sword_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/broad_sword_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/broad_sword_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/broad_sword_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/claymore_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/claymore_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/claymore_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/claymore_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/color_palettes/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/color_palettes/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/color_palettes/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/color_palettes/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/color_palettes/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/color_palettes/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/cutlass_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/cutlass_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/cutlass_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/cutlass_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/dagger_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/dagger_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/dagger_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/dagger_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/dancer_s_sword_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/dancer_s_sword_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/dancer_s_sword_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/dancer_s_sword_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/flail/fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/flail/fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/flail/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/flail/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/flail/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/flail/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/flail/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/flail/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/naga_scale.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/naga_scale.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/gauntlet/yeti.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/yeti.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/glaive_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/glaive_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/glaive_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/glaive_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/great_hammer/fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/great_hammer/fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/great_hammer/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/great_hammer/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/great_hammer/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/great_hammer/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/great_hammer/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/great_hammer/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/katana_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/katana_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/katana_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/katana_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/mace/fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/mace/fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/mace/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/mace/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/mace/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/mace/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/mace/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/mace/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/scythe_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/scythe_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/scythe_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/scythe_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/sickle_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/sickle_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/sickle_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/sickle_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/spear_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/spear_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item/spear_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/spear_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/battle_staff_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/battle_staff_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/battle_staff_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/battle_staff_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/broad_sword_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/broad_sword_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/broad_sword_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/broad_sword_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/claymore_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/claymore_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/claymore_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/claymore_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/dancer_s_sword_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/dancer_s_sword_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/dancer_s_sword_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/dancer_s_sword_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/glaive_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/glaive_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/glaive_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/glaive_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/katana_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/katana_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/katana_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/katana_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/scythe_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/scythe_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/scythe_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/scythe_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/spear_fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/spear_fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/expanded_combat/textures/item_large/spear_fiery.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item_large/spear_fiery.png.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/minecraft/atlases/blocks.json" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/minecraft/atlases/blocks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/ec_twilight_forest_plugin.mixins.json" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/ec_tf_plugin.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/battle_staff_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/battle_staff_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/battle_staff_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/battle_staff_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/battle_staff_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/battle_staff_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/broad_sword_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/broad_sword_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/broad_sword_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/broad_sword_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/broad_sword_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/broad_sword_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/claymore_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/claymore_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/claymore_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/claymore_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/claymore_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/claymore_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/cutlass_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/cutlass_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/cutlass_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/cutlass_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/cutlass_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/cutlass_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dagger_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dagger_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dagger_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dagger_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dagger_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dagger_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dancer_s_sword_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dancer_s_sword_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dancer_s_sword_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dancer_s_sword_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/dancer_s_sword_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/dancer_s_sword_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/glaive_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/glaive_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/glaive_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/glaive_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/glaive_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/glaive_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/katana_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/katana_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/katana_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/katana_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/katana_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/katana_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/scythe_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/scythe_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/scythe_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/scythe_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/scythe_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/scythe_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/sickle_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/sickle_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/sickle_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/sickle_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/sickle_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/sickle_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/spear_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/spear_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/spear_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/spear_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item/spear_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item/spear_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/battle_staff_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/battle_staff_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/battle_staff_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/battle_staff_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/battle_staff_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/battle_staff_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/broad_sword_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/broad_sword_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/broad_sword_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/broad_sword_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/broad_sword_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/broad_sword_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/claymore_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/claymore_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/claymore_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/claymore_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/claymore_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/claymore_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/dancer_s_sword_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/dancer_s_sword_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/dancer_s_sword_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/dancer_s_sword_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/dancer_s_sword_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/dancer_s_sword_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/glaive_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/glaive_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/glaive_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/glaive_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/glaive_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/glaive_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/katana_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/katana_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/katana_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/katana_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/katana_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/katana_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/scythe_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/scythe_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/scythe_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/scythe_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/scythe_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/scythe_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/spear_ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/spear_ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/spear_knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/spear_knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/item_large/spear_steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large/spear_steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/fiery.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/fiery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/ironwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/ironwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/knight_metal.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/knight_metal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/naga_scale.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/naga_scale.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/steeleaf.png" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures/model/shields/steeleaf.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/materials/GauntletBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/materials/GauntletBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/materials/WeaponBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/java/com/userofbricks/expanded_combat/item/materials/WeaponBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/flail.json" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/flail.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/great_hammer.json" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/great_hammer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/mace.json" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/models/item/bases/mace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/expanded_combat/textures/item/gauntlet/arctic.png" beforeDir="false" afterPath="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet/arctic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/minecraft/atlases/blocks.json" beforeDir="false" afterPath="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/assets/minecraft/atlases/blocks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +162,9 @@
           <activation />
         </task>
         <task path="$PROJECT_DIR$/ec-twilight-forest-plugin">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/expanded-combat-mod">
           <activation />
         </task>
         <projects_view>
@@ -83,16 +204,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "forge-1.20.x-forgeGradle-multimod"
+    "git-widget-placeholder": "forge-1.20.x-forgeGradle-multimod",
+    "last_opened_file_path": "/Users/jonathan/Documents/GitHub/Expanded-Combat/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/expanded_combat/textures" />
+      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/only_for_datagen/resources/assets/expanded_combat/textures" />
+      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/run-data/mods" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/needed_only_for_datagen/resources/assets/expanded_combat/textures/item" />
-      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/needed_only_for_datagen/resources/assets/expanded_combat/textures/item_large" />
-      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/needed_only_for_datagen/resources/assets/expanded_combat/textures/model/shields" />
-      <recent name="$PROJECT_DIR$/expanded-combat-mod/src" />
-      <recent name="$PROJECT_DIR$/expanded-combat-mod/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures/item/gauntlet" />
+      <recent name="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item_large" />
+      <recent name="$PROJECT_DIR$/expanded-combat-mod/src/only_for_datagen/resources/assets/ec_tf_plugin/textures/item" />
+      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/src/main/resources/assets/ec_tf_plugin/textures" />
+      <recent name="$PROJECT_DIR$/ec-twilight-forest-plugin/run/mods" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.userofbricks.ectwilightforestplugin.compatability.jei.recipes" />
@@ -100,11 +227,55 @@
       <recent name="com.userofbricks.ectwilightforestplugin.datagen" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Expanded-Combat [genIntellijRuns]">
-    <configuration name="Expanded-Combat [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Expanded-Combat:expanded-combat-mod [build]">
+    <configuration name="Expanded-Combat [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Expanded-Combat:expanded-combat-mod [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/expanded-combat-mod" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Expanded-Combat:expanded-combat-mod [genIntellijRuns]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/expanded-combat-mod" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -123,9 +294,57 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="Expanded-Combat:expanded-combat-mod [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/expanded-combat-mod" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Expanded-Combat:expanded-combat-mod [runData]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/expanded-combat-mod" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runData" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Expanded-Combat [genIntellijRuns]" />
+        <item itemvalue="Gradle.Expanded-Combat:expanded-combat-mod [build]" />
+        <item itemvalue="Gradle.Expanded-Combat:expanded-combat-mod [runClient]" />
+        <item itemvalue="Gradle.Expanded-Combat:expanded-combat-mod [genIntellijRuns]" />
+        <item itemvalue="Gradle.Expanded-Combat [build]" />
+        <item itemvalue="Gradle.Expanded-Combat:expanded-combat-mod [runData]" />
       </list>
     </recent_temporary>
   </component>
@@ -146,11 +365,34 @@
       <option name="project" value="LOCAL" />
       <updated>1692840085521</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial twilight forest compat separation">
+      <option name="closed" value="true" />
+      <created>1692847676381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692847676381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first successful multimod gradle structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="first successful multimod gradle structure" />
+    <MESSAGE value="initial twilight forest compat separation" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial twilight forest compat separation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="net.minecraftforge.fml.ModLoadingException" package="net.minecraftforge.fml" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.module.ResolutionException" package="java.lang.module" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

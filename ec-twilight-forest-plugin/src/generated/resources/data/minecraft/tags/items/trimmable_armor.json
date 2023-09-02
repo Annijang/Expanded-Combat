@@ -1,0 +1,11 @@
+{
+  "values": [
+    "ec_tf_plugin:ironwood_gauntlet",
+    "ec_tf_plugin:fiery_gauntlet",
+    "ec_tf_plugin:steeleaf_gauntlet",
+    "ec_tf_plugin:knight_metal_gauntlet",
+    "ec_tf_plugin:naga_scale_gauntlet",
+    "ec_tf_plugin:yeti_gauntlet",
+    "ec_tf_plugin:arctic_gauntlet"
+  ]
+}

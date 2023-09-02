@@ -10,7 +10,7 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 @Mod(ECTwilightForestPlugin.MODID)
 public class ECTwilightForestPlugin {
-    public static final String MODID = "ec_twilight_forest_plugin";
+    public static final String MODID = "ec_tf_plugin";
     public static final NonNullSupplier<Registrate> REGISTRATE = NonNullSupplier.lazy(() -> Registrate.create(MODID));
     public static ECTFConfig CONFIG;
     public ECTwilightForestPlugin() {

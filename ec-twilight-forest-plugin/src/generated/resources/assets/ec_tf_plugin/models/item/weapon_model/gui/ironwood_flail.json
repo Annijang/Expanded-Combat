@@ -1,0 +1,6 @@
+{
+  "parent": "expanded_combat:item/bases/flail",
+  "textures": {
+    "head": "ec_tf_plugin:item/flail/ironwood"
+  }
+}

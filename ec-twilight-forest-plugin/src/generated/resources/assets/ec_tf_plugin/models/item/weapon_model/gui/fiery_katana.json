@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "expanded_combat:item/katana_handle",
+    "layer1": "ec_tf_plugin:item/katana_fiery"
+  }
+}

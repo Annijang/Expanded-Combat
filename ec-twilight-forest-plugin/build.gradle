@@ -46,7 +46,7 @@ minecraft {
         }
         data {
             workingDirectory project.file('run-data')
-            args '--mod', mod_id, '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/'), '--existing', file('src/only_for_datagen/resources/')
+            args '--mod', mod_id, '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/'), '--existing', file('../expanded-combat-mod/src/only_for_datagen/resources/'), '--existing', file('../expanded-combat-mod/src/main/resources/')
         }
     }
 }
@@ -57,6 +57,10 @@ mixin {
 }
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
+
+repositories {
+    maven {url = "https://modmaven.dev/"}
+}
 
 dependencies {
     minecraft "net.minecraftforge:forge:${mc_version}-${forge_version}"
@@ -105,7 +109,7 @@ tasks.named('jar', Jar).configure {
                 "Implementation-Version"  : project.jar.archiveVersion,
                 "Implementation-Vendor"   : mod_authors,
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
-                "MixinConfigs"            : "${modid}.mixins.json"
+                "MixinConfigs"            : "${mod_id}.mixins.json"
         ])
     }
     finalizedBy 'reobfJar'

@@ -3,11 +3,14 @@ package com.userofbricks.ectwilightforestplugin.config;
 import com.userofbricks.expanded_combat.config.ConfigName;
 import com.userofbricks.expanded_combat.config.ECConfig;
 import me.shedaniel.autoconfig.ConfigData;
+import me.shedaniel.autoconfig.annotation.Config;
 import me.shedaniel.autoconfig.annotation.ConfigEntry;
 import net.minecraft.resources.ResourceLocation;
 
+import static com.userofbricks.ectwilightforestplugin.ECTwilightForestPlugin.MODID;
 import static com.userofbricks.ectwilightforestplugin.util.ModIDs.TwilightForestMOD_ID;
 
+@Config(name = MODID)
 public class ECTFConfig implements ConfigData {
 
     @ConfigEntry.Category("Materials") @ConfigEntry.Gui.CollapsibleObject

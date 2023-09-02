@@ -26,11 +26,11 @@
         "expanded_combat:item_large/sickle",
         "expanded_combat:item_large/spear"
       ],
-      "palette_key": "expanded_combat:item/color_palettes/template",
+      "palette_key": "ec_tf_plugin:item/color_palettes/template",
       "permutations": {
-        "steeleaf": "expanded_combat:item/color_palettes/steeleaf",
-        "ironwood": "expanded_combat:item/color_palettes/ironwood",
-        "knight_metal": "expanded_combat:item/color_palettes/knight_metal"
+        "steeleaf": "ec_tf_plugin:item/color_palettes/steeleaf",
+        "ironwood": "ec_tf_plugin:item/color_palettes/ironwood",
+        "knight_metal": "ec_tf_plugin:item/color_palettes/knight_metal"
       }
     }
   ]

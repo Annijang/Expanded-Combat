@@ -31,8 +31,6 @@ allprojects {
         mavenCentral()
         maven { url = "https://maven.theillusivec4.top/" }
 
-        maven {url = "https://modmaven.dev/"}
-
         maven { url "https://maven.shedaniel.me/" }
 
         maven { url 'https://api.modrinth.com/maven' }

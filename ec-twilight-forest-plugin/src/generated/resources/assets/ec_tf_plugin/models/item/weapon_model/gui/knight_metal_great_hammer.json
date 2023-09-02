@@ -1,0 +1,6 @@
+{
+  "parent": "expanded_combat:item/bases/great_hammer",
+  "textures": {
+    "head": "ec_tf_plugin:item/great_hammer/knight_metal"
+  }
+}

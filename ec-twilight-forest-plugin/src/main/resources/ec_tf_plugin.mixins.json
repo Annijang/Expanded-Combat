@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.userofbricks.ectwilightforestplugin.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ec-twilight-forest-plugin.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
